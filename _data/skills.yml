@@ -1,0 +1,20 @@
+languages:
+  - Python
+  - R
+  - HTML/CSS
+frameworks:
+  - category: "Data Science"
+    entries:
+      - "Pandas"
+      - "tidyverse"
+  - category: "NLP"
+    entries:
+      - "spaCy"
+      - "Gensim"
+      - "tidytext"
+  - category: "Misc"
+    entries:
+      - "Git"
+      - "MongoDB"
+      - "Qualtrics"
+      - "Quarto"

@@ -1,0 +1,12 @@
+given_name: Firstname
+middle_name: Middlename
+abbreviate_middle: true
+family_name: Lastname
+title: "My Title"
+institute: "Georgetown University"
+email: "my_email@georgetown.edu"
+phone: 123-456-7890
+homepage_url: "https://me.georgetown.domains"
+pronouns: "My Pronouns"
+github_username: my_github_name
+scholar_url: https://scholar.google.com/citations?user=my_scholar_id

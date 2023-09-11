@@ -1,0 +1,13 @@
+categories:
+  - name: "Fluent"
+    entries:
+      - "Lang 1"
+      - "Lang 2"
+  - name: "Working Proficiency"
+    entries:
+      - "Lang 3"
+      - "Lang 4"
+      - "Lang 5"
+  - name: "Reading Proficiency"
+    entries:
+      - "Lang 6"

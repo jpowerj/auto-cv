@@ -1,0 +1,13 @@
+schools:
+  - name: "Georgetown University"
+    loc: "Washington, DC, USA"
+    degrees:
+      - name: "MS in Data Science and Analytics"
+        date: "Expected Sep 2024"
+  - name: "A Different University"
+    loc: "[City], [State], [Country]"
+    degrees:
+      - name: "[Degree Type] in [Major]"
+        date: "[Month] [Year]"
+      - name: "[Second Degree Type] in [Second Major]"
+        date: "[Month] [Year]"

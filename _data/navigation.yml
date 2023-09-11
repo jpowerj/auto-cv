@@ -1,0 +1,6 @@
+- name: "About"
+  anchor: "about"
+- name: "CV / Resume"
+  anchor: "cv"
+- name: "External Link"
+  href: "https://example.com"
